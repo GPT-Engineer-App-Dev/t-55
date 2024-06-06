@@ -33,7 +33,7 @@ const Index = () => {
   return (
     <Container centerContent maxW="container.md" py={10}>
       <VStack spacing={6} width="100%">
-        <Heading as="h1" size="2xl">
+        <Heading as="h1" size="2xl" color="teal.500">
           Todo App
         </Heading>
         <HStack width="100%">
